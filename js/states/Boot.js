@@ -4,7 +4,7 @@ class Boot extends Phaser.State {
         this.game.load.image('loading', 'assets/loading.png' );
         this.game.load.image('button-start-game', 'assets/button-start-game.png');
         this.game.load.image('crimsonland-art', 'assets/crimsonland-art.jpg' );
-        this.game.load.audio('intro', 'assets/music/intro.mp3');
+        this.game.load.audio('intro', 'assets/music/Intro.mp3');
 	}
 
 	create() {
